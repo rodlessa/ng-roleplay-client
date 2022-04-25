@@ -1,0 +1,30 @@
+body {
+    color: rgb(219, 219, 219);
+    background: #485563;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+tr{
+    color: rgb(219, 219, 219);
+}
+td{
+    color: rgb(219, 219, 219);
+}
+a{
+  color:  rgb(219, 219, 219)
+}
+.link{
+    color:  rgb(219, 219, 219)
+}
+.link-unstyled, .link-unstyled:link, .link-unstyled:hover {
+    color: inherit;
+    text-decoration: inherit;
+  }
+  img {
+    max-width: 70vh;
+    height: auto;
+  }
+  .flexbox{
+      display: flex;
+  }
